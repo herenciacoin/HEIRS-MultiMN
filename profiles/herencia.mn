@@ -1,0 +1,7 @@
+COIN_NAME="herencia"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="herenciad"
+COIN_CLI="herencia-cli"
+COIN_FOLDER="/root/.herencia"
+COIN_CONFIG="herencia.conf"
+COIN_SERVICE="herencia.service"
